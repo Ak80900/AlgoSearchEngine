@@ -21,7 +21,7 @@ AlgoSearch is a dynamic search engine designed to streamline your journey throug
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/amar_k/AlgoSearch.git`
+1. Clone the repository: `git clone https://github.com/Ak80900/AlgoSearchEngine.git`
 2. Install dependencies: `npm install`
 3. Run the app: `npm run dev`
 
